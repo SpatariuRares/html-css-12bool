@@ -3,16 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-.he50{
-    height: 50px;
-}
 
-.heauto{
-    height: auto!important;
-}
-.p-10{
-    padding: 10px;
-}
 .box{
     height: 50px;
     background-color: blue;
@@ -25,8 +16,9 @@
 }
 
 .green {
+    height: 50px;
     background-color: green;
     text-align: center;
-   border: 1px solid blue;
-    padding: 10px 0;
+    line-height: 50px;
+    border: 1px solid blue;
 }
