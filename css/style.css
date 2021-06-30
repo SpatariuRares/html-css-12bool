@@ -6,6 +6,13 @@
 .he50{
     height: 50px;
 }
+
+.heauto{
+    height: auto!important;
+}
+.p-10{
+    padding: 10px;
+}
 .box{
     height: 50px;
     background-color: blue;
@@ -20,6 +27,6 @@
 .green {
     background-color: green;
     text-align: center;
-    margin: 5px;
+   border: 1px solid blue;
     padding: 10px 0;
 }
