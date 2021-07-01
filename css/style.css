@@ -5,7 +5,7 @@
 }
 
 .box{
-    height: 50px;
+    min-height: 50px;
     background-color: blue;
     width: 100%;
     color: white;
@@ -16,9 +16,6 @@
 }
 
 .green {
-    height: 50px;
     background-color: green;
-    text-align: center;
-    line-height: 50px;
-    border: 1px solid blue;
+     border: 1px solid blue;
 }

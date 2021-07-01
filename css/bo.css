@@ -8,12 +8,10 @@
 }
 
 .he100{
-    height: 100px!important;
+    height: 100px;
 }
 
-.heauto{
-    height: auto!important;
-}
+
 .p-10{
     padding: 10px;
 }
